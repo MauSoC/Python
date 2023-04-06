@@ -9,3 +9,4 @@ if __name__ == "__main__":
     cadena = input('Ingresa una cadena: ')
     #llamamos la funcion y mandamos la cadena para imprimir el resultado
     print(CadenaRe(cadena))
+    
