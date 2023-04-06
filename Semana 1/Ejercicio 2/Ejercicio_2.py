@@ -7,7 +7,7 @@ def CadenaRe(cadena):
 if __name__ == "__main__":
     #Pedimos la cadena al usuario
     cadena = input('Ingresa una cadena: ')
-    #llamamos la funcion y mandamos la cadena para imprimir el resultado
+    #llamamos la funcion y mandamos la cadena para imprimir el resultado.
     print(CadenaRe(cadena))
-    
+
     
