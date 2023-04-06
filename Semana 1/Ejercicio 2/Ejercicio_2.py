@@ -10,3 +10,4 @@ if __name__ == "__main__":
     #llamamos la funcion y mandamos la cadena para imprimir el resultado
     print(CadenaRe(cadena))
     
+    
