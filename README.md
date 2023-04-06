@@ -3,9 +3,9 @@
 En este repositorio subire un ejercicio cada dia durante 7 dias, a continuacion pondre los ejercicios:
      Nota: Los resolvere en Python
      
-  1.	Crear un programa que solicite al usuario su nombre y su edad, y luego imprima un mensaje de bienvenida con esa información. 
+  1.	Crear un programa que solicite al usuario su nombre y su edad, y luego imprima un mensaje de bienvenida con esa información.  Resuelto--
 	
-	2.	Crear un programa que solicite al usuario una cadena de caracteres y luego imprima la cadena al revés. 
+	2.	Crear un programa que solicite al usuario una cadena de caracteres y luego imprima la cadena al revés.  Resuelto--
 	
 	3.	Crear un programa que lea un archivo de texto y cuente cuántas veces aparece cada palabra en el texto. Luego, imprimir una lista ordenada de las palabras y su frecuencia. 
 	
